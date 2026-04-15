@@ -92,8 +92,6 @@ After comparison, transfer learning performed better and was chosen as the final
 
 ---
 
-## 🖥️ How to Run
-
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/Bird_vs_Drone_Classification.git
